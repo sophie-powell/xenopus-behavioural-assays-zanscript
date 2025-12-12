@@ -1,0 +1,3 @@
+Standard Y-maze and locomotion assay scripts for Zantiks LT unit adapted by Dr Annie Godwin and annotated by Alice Blythe, Sophie Powell and Tia Fletcher (European Xenopus Resource Centre, University of Portsmouth) from scripts available on the manufacturer's website (https://zantiks.com/support/script-library). 
+
+These scripts were originally intended for NF stage 50 Xenopus tropicalis tadpoles; certain parameters (e.g. size) will need to be adjusted on a case-by-case basis to account for the variation seen in different cohorts of tadpoles, or if assaying larger Xenopus species, e.g. Xenopus laevis.
